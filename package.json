@@ -2,6 +2,10 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.13.4",
+    "node": "12.14.1"
+  },
   "homepage": "https://sammy-white.github.io/dashboard-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
