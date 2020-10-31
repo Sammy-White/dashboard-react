@@ -16,7 +16,7 @@ function MyApp(){
 
  
 
-ReactDOM.render(<MyApp />, document.getElementById('root'));
+ReactDOM.render(<React.StrictMode><MyApp /></React.StrictMode>, document.getElementById('root'));
 
 
 
