@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/dashboard-react/static/js/main.582764a8.chunk.js",
+    "main.js.map": "/dashboard-react/static/js/main.582764a8.chunk.js.map",
+    "runtime-main.js": "/dashboard-react/static/js/runtime-main.00252eed.js",
+    "runtime-main.js.map": "/dashboard-react/static/js/runtime-main.00252eed.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/dashboard-react/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.51acd689.chunk.js": "/dashboard-react/static/js/2.51acd689.chunk.js",
+    "static/js/2.51acd689.chunk.js.map": "/dashboard-react/static/js/2.51acd689.chunk.js.map",
+    "index.html": "/dashboard-react/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/dashboard-react/static/css/2.20aa2d7b.chunk.css.map",
+    "static/js/2.51acd689.chunk.js.LICENSE.txt": "/dashboard-react/static/js/2.51acd689.chunk.js.LICENSE.txt",
+    "static/media/product.png": "/dashboard-react/static/media/product.25d50401.png",
+    "static/media/sales.png": "/dashboard-react/static/media/sales.4202743d.png",
+    "static/media/user.a6143582.png": "/dashboard-react/static/media/user.a6143582.png",
+    "static/media/userone.png": "/dashboard-react/static/media/userone.5b66b5db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00252eed.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.51acd689.chunk.js",
+    "static/js/main.582764a8.chunk.js"
+  ]
+}
