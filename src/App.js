@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import DashboardLinks from './Admin_Dashboard/Components/Dashboard_Home/dashboardlinks';
 import Home from './Admin_Dashboard/Components/Dashboard_Home/DashboardMain/Home/home';
 import ProductMain from './Admin_Dashboard/Components/Dashboard_Home/DashboardMain/Product/productmain';
-// import Product from './Admin_Dashboard/Components/Dashboard_Home/DashboardMain/Product/product';
 import Sales from './Admin_Dashboard/Components/Dashboard_Home/DashboardMain/Sales/sales';
 import Users from './Admin_Dashboard/Components/Dashboard_Home/DashboardMain/Users/users';
 import SignIn from './Admin_Dashboard/Components/UsersAccount/signin';
