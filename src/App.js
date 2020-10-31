@@ -10,6 +10,7 @@ import SignIn from './Admin_Dashboard/Components/UsersAccount/signin';
 import SignUp from './Admin_Dashboard/Components/UsersAccount/signup';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
+import './style.css'
 
 
 
@@ -25,14 +26,14 @@ function App(){
 			<div>
 				<Switch>
 					<Route path="/" exact component={SignUp} />
-					<Route path="/signin" component={SignIn} />
+					<Route path="/signin"  component={SignIn} />
 					<Row>
 						<Col xs lg="2" className="dashboard_links_background">
 							<DashboardLinks />
 						</Col>
 						<Col sm={10} className="dashboard_main">
 							<div >
-							<Route path="/dashboard" component={Home} />
+							<Route path="/dashboard"  component={Home} />
 							<Route path="/products" component={ProductMain} />
 							<Route path="/sales" component={Sales} />
 							<Route path="/users" component={Users} />
